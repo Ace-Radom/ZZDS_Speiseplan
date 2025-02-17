@@ -49,6 +49,19 @@ body {
     color: #333;
 }
 
+.menu-today {
+    background-color: #ddeeff;
+    border-left: 5px solid #55a;
+    padding: 10px;
+    margin: 10px 0;
+    color: #225;
+}
+
+.menu-today h2 {
+    margin-top: 0;
+    color: #333;
+}
+
 .menu-table {
     width: 100%;
     border-collapse: collapse;

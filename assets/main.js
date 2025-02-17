@@ -13,7 +13,7 @@ async function getMenu(){
 function getWeekdays(today){
     let day = today.getDay();
 
-    let monday = new Date(today);
+    let monday = today;
     monday.setDate(today.getDate() - (day == 0 ? 6 : day - 1));
 
     let weekdays = [];
@@ -80,4 +80,20 @@ document.addEventListener("DOMContentLoaded", async function() {
     populateMenu("menu_table_mi", menu.menu[2]);
     populateMenu("menu_table_do", menu.menu[3]);
     populateMenu("menu_table_fr", menu.menu[4]);
+
+    let today = new Date();
+    let dateDiff = today.getTime() - menu.last_update.getTime();
+    dateDiff = Math.floor(dateDiff / 86400000);
+    if (dateDiff < 7 && dateDiff >= 0 && today.getDay() >= menu.last_update.getDay())
+    {
+        switch (today.getDay())
+        {
+            case 1: document.getElementById("menu_mo").classList.replace("menu-day", "menu-today"); break;
+            case 2: document.getElementById("menu_di").classList.replace("menu-day", "menu-today"); break;
+            case 3: document.getElementById("menu_mi").classList.replace("menu-day", "menu-today"); break;
+            case 4: document.getElementById("menu_do").classList.replace("menu-day", "menu-today"); break;
+            case 5: document.getElementById("menu_fr").classList.replace("menu-day", "menu-today"); break;
+            default: break;
+        }
+    }
 });
