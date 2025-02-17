@@ -1,6 +1,6 @@
 async function getMenu(){
     try {
-        let response = await fetch("../data/menu.json");
+        let response = await fetch("https://ace-radom.github.io/ZZDS_Speiseplan/data/menu.json");
         let menuData = await response.json();
         menuData.last_update = new Date(menuData.last_update * 1000);
         return menuData;
