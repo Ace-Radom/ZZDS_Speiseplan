@@ -1,0 +1,35 @@
+{
+    "menu": [
+        {
+            "e": "Hähnchen Cordon Bleu mit Pommes Frites und Erbsen (A,C,G)",
+            "d": "Karamell-Pudding (G)",
+            "ev": "Gebackenes Gemüse mit Pommes Frites (A,G)",
+            "dv": "Karamell-Pudding (G)"
+        },
+        {
+            "e": "Cevapcici mit Reis, Ajvar und Gemüse (A,C)",
+            "d": "Götterspeise (2,6)",
+            "ev": "Vegane Cevapcici mit Reis,  Ajvar und Gemüse (A,F)",
+            "dv": "Götterspeise (2,6)"
+        },
+        {
+            "e": "Gemüse-Maultaschen auf Tomatenragout (A,C)",
+            "d": "Tiramisu (G,6)",
+            "ev": "Gemüse-Maultaschen auf Tomatenragout (A,C)",
+            "dv": "Tiramisu (G,6)"
+        },
+        {
+            "e": "Schweinebraten mit Bandnudeln und Blumenkohl (A,C)",
+            "d": "Pfirsich Creme (G,6)",
+            "ev": "Überbackener Blumenkohl mit Bandnudeln (A,G)",
+            "dv": "Pfirsich Creme (G,6)"
+        },
+        {
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "d": "Dessert",
+            "ev": "Fischfilet paniert mit Kartoffeln (D)",
+            "dv": "Dessert"
+        }
+    ],
+    "last_update": 1739807444
+}
