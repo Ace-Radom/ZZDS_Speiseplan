@@ -1,0 +1,36 @@
+name: Refresh Menu
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Refresh Menu
+        run: python3 ${{github.workspace}}/data/refresh.py
+        working-directory: ${{github.workspace}}/data
+
+      - name: Extract Branch Name
+        run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
+        id: extract_branch
+
+      - name: Push New Generated Codes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          author_email: ${{secrets.BOT_EMAIL}}
+          author_name: ${{secrets.BOT_USERNAME}}
+          message: update menu
+          branch: ${{steps.extract_branch.outputs.branch}}
