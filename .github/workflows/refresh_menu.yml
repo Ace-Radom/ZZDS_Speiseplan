@@ -19,7 +19,10 @@ jobs:
           python-version: '3.x'
 
       - name: Refresh Menu
-        run: python3 ${{github.workspace}}/data/refresh.py
+        run: |
+          python3 -m pip install --upgrade pip
+          if [ -f ${{github.workspace}}/data/requirements.txt ]; then pip install -r ${{github.workspace}}/data/requirements.txt; fi
+          python3 ${{github.workspace}}/data/refresh.py
         working-directory: ${{github.workspace}}/data
 
       - name: Extract Branch Name
