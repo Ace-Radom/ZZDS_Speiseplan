@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>ZZDS Speiseplan</title>
         <link rel="stylesheet" href="assets/main.css">
-        <script src="assets/date.js" defer></script>
+        <script src="assets/main.js" defer></script>
     </head>
 
     <body>
@@ -17,24 +17,35 @@
             <div class="subheader" id="date_interval"></div>
 
             <div class="menu">
-                <div class="menuday">
+                <div class="menu-day">
                     <h2 id="date_mo"></h2>
+                    <table class="menu-table" id="menu_table_mo"></table>
                 </div>
-                <div class="menuday">
+                <div class="menu-day">
                     <h2 id="date_di"></h2>
+                    <table class="menu-table" id="menu_table_di"></table>
                 </div>
-                <div class="menuday">
+                <div class="menu-day">
                     <h2 id="date_mi"></h2>
+                    <table class="menu-table" id="menu_table_mi"></table>
                 </div>
-                <div class="menuday">
+                <div class="menu-day">
                     <h2 id="date_do"></h2>
+                    <table class="menu-table" id="menu_table_do"></table>
                 </div>
-                <div class="menuday">
+                <div class="menu-day">
                     <h2 id="date_fr"></h2>
+                    <table class="menu-table" id="menu_table_fr"></table>
                 </div>
             </div>
 
-            <div class="footer">Alle Daten auf dieser Seite werden von der Schulwebsite zur Verfügung gestellt.</div>
+            <div class="footer">
+                
+                <p id="date_last_update"></p>
+                <p>Alle Daten auf dieser Seite werden von der Schulwebsite zur Verfügung gestellt.</p>
+            
+            </div>
+            
         </div>
     </body>
 
