@@ -13,7 +13,7 @@ async function getMenu(){
 function getWeekdays(today){
     let day = today.getDay();
 
-    let monday = today;
+    let monday = new Date(today);
     monday.setDate(today.getDate() - (day == 0 ? 6 : day - 1));
 
     let weekdays = [];
