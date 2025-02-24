@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Hähnchen Cordon Bleu mit Pommes Frites und Erbsen (A,C,G)",
-            "d": "Karamell-Pudding (G)",
-            "ev": "Gebackenes Gemüse mit Pommes Frites (A,G)",
-            "dv": "Karamell-Pudding (G)"
+            "e": "Reibeküchle mit Apfelmus (A,C,3)",
+            "d": "Joghurt mit Früchten (G)",
+            "ev": "Reibeküchle mit Apfelmus (A,C,3)",
+            "dv": "Joghurt mit Früchten (G)"
         },
         {
-            "e": "Cevapcici mit Reis, Ajvar und Gemüse (A,C)",
-            "d": "Götterspeise (2,6)",
-            "ev": "Vegane Cevapcici mit Reis,  Ajvar und Gemüse (A,F)",
-            "dv": "Götterspeise (2,6)"
+            "e": "Hähnchen-Nuggets mit Würfelkartoffeln und  Gemüse (A,C,G)",
+            "d": "Berlinerb (A)",
+            "ev": "Vegane Knuspernuggets mit Würfelkartoffeln und Gemüse (A,F) ",
+            "dv": "Berlinerb (A)"
         },
         {
-            "e": "Gemüse-Maultaschen auf Tomatenragout (A,C)",
-            "d": "Tiramisu (G,6)",
-            "ev": "Gemüse-Maultaschen auf Tomatenragout (A,C)",
-            "dv": "Tiramisu (G,6)"
+            "e": "Currywurst mit Bratkartoffeln und Gemüse (1,3,5)",
+            "d": "Mangosalat",
+            "ev": "Fasnetsküchle mit Vanillesoße (A,C,G)",
+            "dv": "Mangosalat"
         },
         {
-            "e": "Schweinebraten mit Bandnudeln und Blumenkohl (A,C)",
-            "d": "Pfirsich Creme (G,6)",
-            "ev": "Überbackener Blumenkohl mit Bandnudeln (A,G)",
-            "dv": "Pfirsich Creme (G,6)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
-            "d": "Dessert",
-            "ev": "Fischfilet paniert mit Kartoffeln (D)",
-            "dv": "Dessert"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         }
     ],
-    "last_update": 1740272151
+    "last_update": 1740358419
 }
