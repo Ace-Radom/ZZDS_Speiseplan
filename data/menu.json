@@ -1,22 +1,22 @@
 {
     "menu": [
         {
-            "e": "Reibeküchle mit Apfelmus (A,C,3)",
-            "d": "Joghurt mit Früchten (G)",
-            "ev": "Reibeküchle mit Apfelmus (A,C,3)",
-            "dv": "Joghurt mit Früchten (G)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Hähnchen-Nuggets mit Würfelkartoffeln und  Gemüse (A,C,G)",
-            "d": "Berlinerb (A)",
-            "ev": "Vegane Knuspernuggets mit Würfelkartoffeln und Gemüse (A,F) ",
-            "dv": "Berlinerb (A)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Currywurst mit Bratkartoffeln und Gemüse (1,3,5)",
-            "d": "Mangosalat",
-            "ev": "Fasnetsküchle mit Vanillesoße (A,C,G)",
-            "dv": "Mangosalat"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
             "e": "FERIEN",
@@ -31,5 +31,5 @@
             "dv": ""
         }
     ],
-    "last_update": 1740876969
+    "last_update": 1740963284
 }
