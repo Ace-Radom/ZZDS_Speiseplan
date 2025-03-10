@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Fleischkäse mit Bratkartoffeln und Karottengemüse (C,G,5)",
+            "d": "Schokoladenpudding (G)",
+            "ev": "Kartoffelauflauf mit Gemüse (G)",
+            "dv": "Schokoladenpudding (G)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Vegetarische Kartoffeltaschen mit  Sahnesoße und Gemüse (G)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Vegetarische Kartoffeltaschen mit  Sahnesoße und Gemüse (G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Paniertes Münchner Schnitzel (mit Senf und Meerrettich) dazu: Kroketten und Erbsen (A,C,G,J)",
+            "d": "Obstsalat",
+            "ev": "Gemüseschnitzel mit Kroketten (A)",
+            "dv": "Obstsalat"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Ungarischer Rindergulasch mit Spätzle und Paprikagemüse (A,C,G)",
+            "d": "Vanillecreme mit Waldbeeren (G)",
+            "ev": "Gemüsegulasch mit Spätzle (A,C,G)",
+            "dv": "Vanillecreme mit Waldbeeren (G)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "d": "Dessert",
+            "ev": "Panierter Rotbarsch (D) mit Kartoffeln",
+            "dv": "Dessert"
         }
     ],
-    "last_update": 1741481157
+    "last_update": 1741567466
 }
