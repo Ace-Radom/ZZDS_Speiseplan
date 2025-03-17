@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Fleischkäse mit Bratkartoffeln und Karottengemüse (C,G,5)",
-            "d": "Schokoladenpudding (G)",
-            "ev": "Kartoffelauflauf mit Gemüse (G)",
-            "dv": "Schokoladenpudding (G)"
+            "e": "Paniertes Schweineschnitzel mit Westernkartoffeln und Gemüse (A,C,G)",
+            "d": "Grießbrei mit Zimt-Zucker (G)",
+            "ev": "Veganes Schnitzel mit Westernkartoffeln und Gemüse (A,C,G,F)",
+            "dv": "Grießbrei mit Zimt-Zucker (G)"
         },
         {
-            "e": "Vegetarische Kartoffeltaschen mit  Sahnesoße und Gemüse (G)",
-            "d": "Gebäck (A,C,G)",
-            "ev": "Vegetarische Kartoffeltaschen mit  Sahnesoße und Gemüse (G)",
-            "dv": "Gebäck (A,C,G)"
+            "e": "Spaghetti Bolognese und Reibekäse (A,G,I)",
+            "d": "Vanillepudding (G)",
+            "ev": "Spaghetti Gemüsebolognese und Reibekäse (A,G,I)",
+            "dv": "Vanillepudding (G)"
         },
         {
-            "e": "Paniertes Münchner Schnitzel (mit Senf und Meerrettich) dazu: Kroketten und Erbsen (A,C,G,J)",
-            "d": "Obstsalat",
-            "ev": "Gemüseschnitzel mit Kroketten (A)",
-            "dv": "Obstsalat"
+            "e": "Frühlingsrollen mit Chillisoße und Wokgemüse (A,F,I,2,6)",
+            "d": "Birnen-Quark (G)",
+            "ev": "----------",
+            "dv": "Birnen-Quark (G)"
         },
         {
-            "e": "Ungarischer Rindergulasch mit Spätzle und Paprikagemüse (A,C,G)",
-            "d": "Vanillecreme mit Waldbeeren (G)",
-            "ev": "Gemüsegulasch mit Spätzle (A,C,G)",
-            "dv": "Vanillecreme mit Waldbeeren (G)"
+            "e": "Hähnchenbrust in Bärlauchsoße mit Reis und Brokkoli (G)",
+            "d": "Donut (A,C,2)",
+            "ev": "Brokkoli-Kartoffelauflauf (G)",
+            "dv": "Donut (A,C,2)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Panierter Rotbarsch (D) mit Kartoffeln",
+            "ev": "Fischfilet mit Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1742086684
+    "last_update": 1742172961
 }
