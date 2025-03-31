@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Putenbruststreifen mit Pilzsoße, Nudeln und Karottengemüse (A,G)",
-            "d": "Himbeercreme (G,2,6)",
-            "ev": "Canneloni an Tomatensoße mit Käse überbacken (A,C,G)",
-            "dv": "Himbeercreme (G,2,6)"
+            "e": "Bami Goreng vegetarisch (A,F,I)",
+            "d": "Eis (G,2)",
+            "ev": "Bami Goreng vegetarisch (A,F,I)",
+            "dv": "Eis (G,2)"
         },
         {
-            "e": "Cordon bleu mit gebackenen Kartoffeln und Gemüse (A,C,G)",
-            "d": "Joghurt mit Waldbeeren (G)",
-            "ev": "Vegetarisches Knusperschnitzel, gebackene Kartoffeln und Gemüse (A,C,G,F)",
-            "dv": "Joghurt mit Waldbeeren (G)"
+            "e": "Linsen mit Spätzle und Wienerle (A,C,G,5)",
+            "d": "Nougat Pudding (G)",
+            "ev": "Linsen mit Spätzle und vegane Wienerle (A,C,G,F,4)",
+            "dv": "Nougat Pudding (G)"
         },
         {
-            "e": "Hackbraten mit Thymiansoße, Kräuterkartoffeln und Bohnen (A,C)",
-            "d": "Apfelküchle mit Vanillesoße (A,G)",
-            "ev": "Gemüseballs an Sahnesoße mit Salzkartoffel (A,G)",
-            "dv": "Apfelküchle mit Vanillesoße (A,G)"
+            "e": "Putenragout mit Basmatireis und Zucchini (G)",
+            "d": "Crème Brûlée (G,4)",
+            "ev": "Gefüllte Zucchinischiffchen mit Basmatireis (G,I)",
+            "dv": "Crème Brûlée (G,4)"
         },
         {
-            "e": "Asiatische Gemüsereispfanne mit Teriyakisoße (F,1,3,4)",
-            "d": "Panna Cotta (G,2)",
-            "ev": "Asiatische Gemüsereispfanne mit Teriyakisoße (F,1,3,4)",
-            "dv": "Panna Cotta (G,2)"
+            "e": "Knusperschnitzel in Pankopanade mit Pommes frites und Gemüse (A,C)",
+            "d": "Bananen-Milch (G)",
+            "ev": "Paniertes Gemüse mit Pommes frites (A,C)",
+            "dv": "Bananen-Milch (G)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Paniertes Fischfilet (D)",
+            "ev": "Fischfilet und Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1743296371
+    "last_update": 1743382697
 }
