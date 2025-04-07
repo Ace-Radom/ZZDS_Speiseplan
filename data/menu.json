@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Bami Goreng vegetarisch (A,F,I)",
-            "d": "Eis (G,2)",
-            "ev": "Bami Goreng vegetarisch (A,F,I)",
-            "dv": "Eis (G,2)"
+            "e": "Scalopine al Limone mit Farfalle und Brokkoli (A,G)",
+            "d": "Mediterraner Obstsalat",
+            "ev": "Griechische Moussaka (A,C,G)",
+            "dv": "Mediterraner Obstsalat"
         },
         {
-            "e": "Linsen mit Spätzle und Wienerle (A,C,G,5)",
-            "d": "Nougat Pudding (G)",
-            "ev": "Linsen mit Spätzle und vegane Wienerle (A,C,G,F,4)",
-            "dv": "Nougat Pudding (G)"
+            "e": "Tortellini in Schinken-Sahne-Soße mit Erbsen (A,C,G)",
+            "d": "Zitronenkuchen (A,C,G)",
+            "ev": "Vegetarische Tortellini in Sahnesoße (A,C,G)",
+            "dv": "Zitronenkuchen (A,C,G)"
         },
         {
-            "e": "Putenragout mit Basmatireis und Zucchini (G)",
-            "d": "Crème Brûlée (G,4)",
-            "ev": "Gefüllte Zucchinischiffchen mit Basmatireis (G,I)",
-            "dv": "Crème Brûlée (G,4)"
+            "e": "Picatta Milanese mit Spaghetti und Tomatensoße (A,C,G)",
+            "d": "Tiramisu (A,C,G,2,4)",
+            "ev": "Pizza Margherita mit Tomaten und Mozzarella (A,G)",
+            "dv": "Tiramisu (A,C,G,2,4)"
         },
         {
-            "e": "Knusperschnitzel in Pankopanade mit Pommes frites und Gemüse (A,C)",
-            "d": "Bananen-Milch (G)",
-            "ev": "Paniertes Gemüse mit Pommes frites (A,C)",
-            "dv": "Bananen-Milch (G)"
+            "e": "Mediterrane Hähnchenbrust an Ofengemüse",
+            "d": "Crema Catalana (C,G)",
+            "ev": "Ofengemüse mit Kartoffeln",
+            "dv": "Crema Catalana (C,G)"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
-            "d": "Dessert",
-            "ev": "Fischfilet und Kartoffeln (D)",
-            "dv": "Dessert"
+            "e": "Foodsaver Buffet",
+            "d": "",
+            "ev": "Foodsaver Buffet",
+            "dv": ""
         }
     ],
-    "last_update": 1743901146
+    "last_update": 1743987442
 }
