@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Scalopine al Limone mit Farfalle und Brokkoli (A,G)",
-            "d": "Mediterraner Obstsalat",
-            "ev": "Griechische Moussaka (A,C,G)",
-            "dv": "Mediterraner Obstsalat"
+            "e": "Hähnchenschnitzel mit Kroketten und Erbsen-Karotten (A,C,G)",
+            "d": "Vanillepudding (G)",
+            "ev": "Veganes Schnitzel mit Kroketten und Erbsen-Karotten (A,C,G,F)",
+            "dv": "Vanillepudding (G)"
         },
         {
-            "e": "Tortellini in Schinken-Sahne-Soße mit Erbsen (A,C,G)",
-            "d": "Zitronenkuchen (A,C,G)",
-            "ev": "Vegetarische Tortellini in Sahnesoße (A,C,G)",
-            "dv": "Zitronenkuchen (A,C,G)"
+            "e": "Fleischküchle mit Bratkartoffeln und Gemüse (A,C)",
+            "d": "Waldmeister-Dessert (G,2,4,6)",
+            "ev": "Vollkornbratling mit Bratkartoffeln (A,C,I,J)",
+            "dv": "Waldmeister-Dessert (G,2,4,6)"
         },
         {
-            "e": "Picatta Milanese mit Spaghetti und Tomatensoße (A,C,G)",
-            "d": "Tiramisu (A,C,G,2,4)",
-            "ev": "Pizza Margherita mit Tomaten und Mozzarella (A,G)",
-            "dv": "Tiramisu (A,C,G,2,4)"
+            "e": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (A,C,G)",
+            "d": "Amerikaner (A,C,G)",
+            "ev": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (A,C,G)",
+            "dv": "Amerikaner (A,C,G)"
         },
         {
-            "e": "Mediterrane Hähnchenbrust an Ofengemüse",
-            "d": "Crema Catalana (C,G)",
-            "ev": "Ofengemüse mit Kartoffeln",
-            "dv": "Crema Catalana (C,G)"
+            "e": "Bratwurst mit Kartoffelpüree und Bohnen (G,5)",
+            "d": "Obst der Saison",
+            "ev": "Vegane Bratwurst mit Kartoffelpüree und Bohnen (F,G)",
+            "dv": "Obst der Saison"
         },
         {
-            "e": "Foodsaver Buffet",
-            "d": "",
-            "ev": "Foodsaver Buffet",
-            "dv": ""
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "d": "Dessert",
+            "ev": "Fischfilet mit Kartoffeln (D)",
+            "dv": "Dessert"
         }
     ],
-    "last_update": 1744521319
+    "last_update": 1744678637
 }
