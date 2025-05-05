@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Hähnchenschnitzel mit Kroketten und Erbsen-Karotten (A,C,G)",
-            "d": "Vanillepudding (G)",
-            "ev": "Veganes Schnitzel mit Kroketten und Erbsen-Karotten (A,C,G,F)",
-            "dv": "Vanillepudding (G)"
+            "e": "Gemischter Gulasch mit Paprika und Mais, dazu Kartoffeln",
+            "d": "Götterspeise mit Vanillesoße (2,6)",
+            "ev": "Gemüsegulasch mit Kartoffeln",
+            "dv": "Götterspeise mit Vanillesoße (2,6)"
         },
         {
-            "e": "Fleischküchle mit Bratkartoffeln und Gemüse (A,C)",
-            "d": "Waldmeister-Dessert (G,2,4,6)",
-            "ev": "Vollkornbratling mit Bratkartoffeln (A,C,I,J)",
-            "dv": "Waldmeister-Dessert (G,2,4,6)"
+            "e": "Fleischkäse mit Röstkartoffeln und Gemüse (5,G)",
+            "d": "Schokoladenpudding (G)",
+            "ev": "Kartoffeltaschen mit Gemüse (A,G)",
+            "dv": "Schokoladenpudding (G)"
         },
         {
-            "e": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (A,C,G)",
-            "d": "Amerikaner (A,C,G)",
-            "ev": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (A,C,G)",
-            "dv": "Amerikaner (A,C,G)"
+            "e": "Hähnchenbrust mit Preiselbeersoße, Reis und Brokkoli (G)",
+            "d": "Apfelquark (G,3)",
+            "ev": "Brokkoli-Reispfanne",
+            "dv": "Apfelquark (G,3)"
         },
         {
-            "e": "Bratwurst mit Kartoffelpüree und Bohnen (G,5)",
-            "d": "Obst der Saison",
-            "ev": "Vegane Bratwurst mit Kartoffelpüree und Bohnen (F,G)",
-            "dv": "Obst der Saison"
+            "e": "Gnocchi mit Bärlauchpesto (A,C,G)",
+            "d": "Obstsalat",
+            "ev": "Gnocchi mit Bärlauchpesto (A,C,G)",
+            "dv": "Obstsalat"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "e": "Paniertes Fischfilet (A,C,D)",
             "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (D)",
+            "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1746320608
+    "last_update": 1746406844
 }
