@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Spaghetti mit Linsen-Gemüsebolognese (A,I)",
-            "d": "Joghurt mit Erdbeeren (G)",
-            "ev": "Spaghetti mit Linsen-Gemüsebolognese (A,I)",
-            "dv": "Joghurt mit Erdbeeren (G)"
+            "e": "Schweinehacksteak mit BBQ-Sauce, Würfelkartoffeln und Paprikagemüse (1,3,A,C)",
+            "d": "Vanillepudding (G)",
+            "ev": "Gemüsemaultaschen mit Röstzwiebeln (A,C,G,1)",
+            "dv": "Vanillepudding (G)"
         },
         {
-            "e": "Paniertes Schweineschnitzel mit Kartoffelcubes und Rahmgemüse (A,C,G)",
-            "d": "Berliner (A,G)",
-            "ev": "Gemüseschnitzel mit Kartoffelcubes und Rahmgemüse (A,C,G)",
-            "dv": "Berliner (A,G)"
+            "e": "Thailändisches Gemüsecurry mit Basmatireis (F)",
+            "d": "Eis (G,2)",
+            "ev": "Thailändisches Gemüsecurry mit Basmatireis (F)",
+            "dv": "Eis (G,2)"
         },
         {
-            "e": "Asiatische Fleisch-Gemüsepfanne mit Teriyakisoße und Mienudeln (1,3,4,6,A,I)",
-            "d": "Grießpudding mit Heidelbeeren (G)",
-            "ev": "Asiatische Gemüsepfanne mit Teriyakisoße und Mienudeln (1,3,4,6,A,I)",
-            "dv": "Grießpudding mit Heidelbeeren (G)"
+            "e": "Hähnchenbrust im Cornflakesmantel mit Kroketten und Gemüse (A,C,G)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Gebackenes Gemüse mit Kroketten (A,C,G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "Würstle-Gulasch mit Kartoffelgratin und Gemüse (G,5)",
-            "d": "Schokoladencreme (G)",
-            "ev": "Kartoffelauflauf mit Gemüse (G)",
-            "dv": "Schokoladencreme (G)"
-        },
-        {
-            "e": "Foodsaver-Buffet",
+            "e": "Schweinenackensteak mit Kräuterbutter und Röstkartoffeln (G)",
             "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (A,C,D)",
+            "ev": "----------",
+            "dv": "Dessert"
+        },
+        {
+            "e": "Lachsschnitte mit Kartoffeln (D,G)",
+            "d": "Dessert",
+            "ev": "----------",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1748135075
+    "last_update": 1748221241
 }
