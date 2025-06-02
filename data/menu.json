@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Schweinehacksteak mit BBQ-Sauce, Würfelkartoffeln und Paprikagemüse (1,3,A,C)",
-            "d": "Vanillepudding (G)",
-            "ev": "Gemüsemaultaschen mit Röstzwiebeln (A,C,G,1)",
-            "dv": "Vanillepudding (G)"
+            "e": "Cordon bleu mit Röstkartoffeln und Gemüse (A,C,G)",
+            "d": "Creme Brûlée (G)",
+            "ev": "Veganes Knusperschnitzel mit Röstkartoffeln und Gemüse (A,F)",
+            "dv": "Creme Brûlée (G)"
         },
         {
-            "e": "Thailändisches Gemüsecurry mit Basmatireis (F)",
-            "d": "Eis (G,2)",
-            "ev": "Thailändisches Gemüsecurry mit Basmatireis (F)",
-            "dv": "Eis (G,2)"
+            "e": "Schweinenackensteak mit Thymiansoße, Spätzle und Blumenkohl (A,C,G)",
+            "d": "Milchreis (G)",
+            "ev": "Blumenkohl an Käsesoße mit Kartoffeln (G)",
+            "dv": "Milchreis (G)"
         },
         {
-            "e": "Hähnchenbrust im Cornflakesmantel mit Kroketten und Gemüse (A,C,G)",
-            "d": "Gebäck (A,C,G)",
-            "ev": "Gebackenes Gemüse mit Kroketten (A,C,G)",
-            "dv": "Gebäck (A,C,G)"
+            "e": "Vegetarischer Tag: Reibeküchle mit Apfelmus (A,C,3,8)",
+            "d": "Quark mit Sauerkirschen (G)",
+            "ev": "Vegetarischer Tag: Reibeküchle mit Apfelmus (A,C,3,8)",
+            "dv": "Quark mit Sauerkirschen (G)"
         },
         {
-            "e": "Schweinenackensteak mit Kräuterbutter und Röstkartoffeln (G)",
+            "e": "Maultaschen-Tomatenpfanne an Sahnesoße und Reibekäse (A,C,G)",
+            "d": "Bananenmilch (G)",
+            "ev": "Gemüsemaultaschen-Tomatenpfanne mit Sahnesoße und Reibekäse (A,C,G)",
+            "dv": "Bananenmilch (G)"
+        },
+        {
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "----------",
-            "dv": "Dessert"
-        },
-        {
-            "e": "Lachsschnitte mit Kartoffeln (D,G)",
-            "d": "Dessert",
-            "ev": "----------",
+            "ev": "Fischfilet mit Kartoffeln (A,C,D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1748740279
+    "last_update": 1748826138
 }
