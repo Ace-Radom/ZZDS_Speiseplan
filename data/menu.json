@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Bratwurst mit Kartoffelpüree und Gemüse (1,5,G)",
-            "d": "Zitronenpudding (2,6,G)",
-            "ev": "Vegetarische Bratwurst mit Kartoffelpürree und Gemüse (1,3,4,F,G)",
-            "dv": "Zitronenpudding (2,6,G)"
+            "e": "Linsen mit Spätzle und Wienerle (A,C,5)",
+            "d": "Wassermelone",
+            "ev": "Linsen mit Spätzle und vegane Wienerle (A,C,F,4)",
+            "dv": "Wassermelone"
         },
         {
-            "e": "Putenstreifen mit Früchte-Currysoße und Reis (6)",
-            "d": "Joghurt mit Himbeeren (G)",
-            "ev": "Gemüsereispfanne",
-            "dv": "Joghurt mit Himbeeren (G)"
+            "e": "Paniertes Schnitzel mit Kroketten und Gemüse (A,C,G)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Ofenkartoffel mit Kräuterquark (G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "Tortelloni mit Ricotta gefüllt in Sahnesoße mit Gemüse (A,C,G)",
-            "d": "Tiramisu (6,G)",
-            "ev": "Tortelloni mit Ricotta gefüllt in Sahnesoße mit Gemüse (A,C,G)",
-            "dv": "Tiramisu (6,G)"
+            "e": "Lasagne Bolognese (A,G,I)",
+            "d": "Quark mit Erdbeeren (G)",
+            "ev": "Gemüse-Lasagne (A,G,I)",
+            "dv": "Quark mit Erdbeeren (G)"
         },
         {
-            "e": "Paniertes Putenschnitzel mit Herzoginkartoffeln und Erbsen-Karottengemüse (A,C,G)",
-            "d": "Erdbeermilch (G)",
-            "ev": "Gemüseschnitzel mit Herzoginkartoffeln (A,C,G)",
-            "dv": "Erdbeermilch (G)"
+            "e": "Ofengemüse mit Drillingskartoffeln und Tsatsiki (G)",
+            "d": "Schokoladenpudding mit Sahne (G)",
+            "ev": "Ofengemüse mit Drillingskartoffeln und Tsatsiki (G)",
+            "dv": "Schokoladenpudding mit Sahne (G)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Thunfischsteak mit Kartoffeln und Gemüse (D)",
+            "ev": "Fischfilet mit Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1751159273
+    "last_update": 1751245496
 }
