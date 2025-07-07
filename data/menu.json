@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Linsen mit Spätzle und Wienerle (A,C,5)",
-            "d": "Wassermelone",
-            "ev": "Linsen mit Spätzle und vegane Wienerle (A,C,F,4)",
-            "dv": "Wassermelone"
+            "e": "Schweinerücken am Stück gebraten mit Nudeln und Blumenkohl (A,C,G)",
+            "d": "Haselnusspudding (G)",
+            "ev": "Blumenkohl mit Käsesoße überbacken und Kartoffeln (G)",
+            "dv": "Haselnusspudding (G)"
         },
         {
-            "e": "Paniertes Schnitzel mit Kroketten und Gemüse (A,C,G)",
-            "d": "Gebäck (A,C,G)",
-            "ev": "Ofenkartoffel mit Kräuterquark (G)",
-            "dv": "Gebäck (A,C,G)"
+            "e": "Geflügelragout mit Pilzen, Spätzle und Gemüse (A,C,G)",
+            "d": "Stracciatellacreme (G)",
+            "ev": "Pilzragout mit Spätzle (A,C,G)",
+            "dv": "Stracciatellacreme (G)"
         },
         {
-            "e": "Lasagne Bolognese (A,G,I)",
-            "d": "Quark mit Erdbeeren (G)",
-            "ev": "Gemüse-Lasagne (A,G,I)",
-            "dv": "Quark mit Erdbeeren (G)"
+            "e": "Fleischkäse mit Röstkartoffeln und Gemüse (5)",
+            "d": "Zitronen-Cookie (A,C,G,2)",
+            "ev": "Veganer Fleischkäse mit Röstkartoffeln und Gemüse (A,F)",
+            "dv": "Zitronen-Cookie (A,C,G,2)"
         },
         {
-            "e": "Ofengemüse mit Drillingskartoffeln und Tsatsiki (G)",
-            "d": "Schokoladenpudding mit Sahne (G)",
-            "ev": "Ofengemüse mit Drillingskartoffeln und Tsatsiki (G)",
-            "dv": "Schokoladenpudding mit Sahne (G)"
+            "e": "Cevapcici mit Ajvar und Reis (A,C)",
+            "d": "Götterspeise (2,6)",
+            "ev": "Vegane Cevapcici mit Ajvar und Reis",
+            "dv": "Götterspeise (2,6)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (D)",
+            "ev": "Fischfilet und Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1751764020
+    "last_update": 1751850337
 }
