@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Schweinerücken am Stück gebraten mit Nudeln und Blumenkohl (A,C,G)",
-            "d": "Haselnusspudding (G)",
-            "ev": "Blumenkohl mit Käsesoße überbacken und Kartoffeln (G)",
-            "dv": "Haselnusspudding (G)"
+            "e": "Gemüsegulasch mit Reis",
+            "d": "Panna Cotta(G,2,6)",
+            "ev": "Gemüsegulasch mit Reis",
+            "dv": "Panna Cotta(G,2,6)"
         },
         {
-            "e": "Geflügelragout mit Pilzen, Spätzle und Gemüse (A,C,G)",
-            "d": "Stracciatellacreme (G)",
-            "ev": "Pilzragout mit Spätzle (A,C,G)",
-            "dv": "Stracciatellacreme (G)"
+            "e": "Fleischbällchen an grüner Pfeffersoße, Nudeln, Gemüse(A,G,1,3)",
+            "d": "Schokocreme mit Banane(G)",
+            "ev": "Vegane Bällchen an grüner Pfeffersoße, Nudeln, Gemüse(A,G,F)",
+            "dv": "Schokocreme mit Banane(G)"
         },
         {
-            "e": "Fleischkäse mit Röstkartoffeln und Gemüse (5)",
-            "d": "Zitronen-Cookie (A,C,G,2)",
-            "ev": "Veganer Fleischkäse mit Röstkartoffeln und Gemüse (A,F)",
-            "dv": "Zitronen-Cookie (A,C,G,2)"
+            "e": "Hähnchenkeule, BBQ Sauce, Bratkartoffeln, Bohnen(1,3,4)",
+            "d": "Marinierte Erdbeeren",
+            "ev": "Frühlingsrolle, BBQ Sauce, Bratkartoffel (A,1,3,4)",
+            "dv": "Marinierte Erdbeeren"
         },
         {
-            "e": "Cevapcici mit Ajvar und Reis (A,C)",
-            "d": "Götterspeise (2,6)",
-            "ev": "Vegane Cevapcici mit Ajvar und Reis",
-            "dv": "Götterspeise (2,6)"
+            "e": "Geflügel Cordon bleu, Pommes frites, Erbsen",
+            "d": "Gebäck(A,C,G)",
+            "ev": "Canneloni mit Tomatensoße und Käse überbacken(A,G)",
+            "dv": "Gebäck(A,C,G)"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "e": "Foodsaver: Lieblingsgerichte der Woche(A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Fischfilet und Kartoffeln (D)",
+            "ev": "Gebackenes Fischfilet mit Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1752282263
+    "last_update": 1752541519
 }
