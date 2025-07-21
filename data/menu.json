@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Gemüsegulasch mit Reis",
-            "d": "Panna Cotta(G,2,6)",
-            "ev": "Gemüsegulasch mit Reis",
-            "dv": "Panna Cotta(G,2,6)"
+            "e": "Maultaschen mit geschmelzten Zwiebeln und Gemüse (A,C,G)",
+            "d": "Vanillepudding (G)",
+            "ev": "Gemüsemaultaschen mit geschmelzten Zwiebeln und Gemüse (A,C,G)",
+            "dv": "Vanillepudding (G)"
         },
         {
-            "e": "Fleischbällchen an grüner Pfeffersoße, Nudeln, Gemüse(A,G,1,3)",
-            "d": "Schokocreme mit Banane(G)",
-            "ev": "Vegane Bällchen an grüner Pfeffersoße, Nudeln, Gemüse(A,G,F)",
-            "dv": "Schokocreme mit Banane(G)"
+            "e": "Spaghetti Pesto mit Karottengemüse und Parmesan (A,G,3,4)",
+            "d": "Joghurt mit Beeren (G)",
+            "ev": "Spaghetti Pesto mit Karottengemüse und Parmesan (A,G,3,4)",
+            "dv": "Joghurt mit Beeren (G)"
         },
         {
-            "e": "Hähnchenkeule, BBQ Sauce, Bratkartoffeln, Bohnen(1,3,4)",
-            "d": "Marinierte Erdbeeren",
-            "ev": "Frühlingsrolle, BBQ Sauce, Bratkartoffel (A,1,3,4)",
-            "dv": "Marinierte Erdbeeren"
+            "e": "Marinierte Steaks mit Röstkartoffeln und Gemüse (1,4,G)",
+            "d": "Mango- Milch (G)",
+            "ev": "Kartoffeltaschen mit Frischkäse gefüllt, Tomatensoße und Gemüse (G)",
+            "dv": "Mango- Milch (G)"
         },
         {
-            "e": "Geflügel Cordon bleu, Pommes frites, Erbsen",
-            "d": "Gebäck(A,C,G)",
-            "ev": "Canneloni mit Tomatensoße und Käse überbacken(A,G)",
-            "dv": "Gebäck(A,C,G)"
+            "e": "Thai Curry mit Hähnchenstreifen und Basmati Reis (3,I)",
+            "d": "Zitronencreme (G,2)",
+            "ev": "Thai Curry und Basmati Reis (3,I)",
+            "dv": "Zitronencreme (G,2)"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche(A,C,D,G,H,I,J)",
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Gebackenes Fischfilet mit Kartoffeln (D)",
+            "ev": "Fischfilet mit Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1752973833
+    "last_update": 1753060079
 }
