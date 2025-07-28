@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Maultaschen mit geschmelzten Zwiebeln und Gemüse (A,C,G)",
-            "d": "Vanillepudding (G)",
-            "ev": "Gemüsemaultaschen mit geschmelzten Zwiebeln und Gemüse (A,C,G)",
-            "dv": "Vanillepudding (G)"
+            "e": "Paniertes Schnitzel mit gebackener Kartoffel und Erbsen (A,C,G)",
+            "d": "Eis (G,2)",
+            "ev": "Vegetarisches Schnitzel mit gebackener Kartoffel und Erbsen (F,A,C,G)",
+            "dv": "Eis (G,2)"
         },
         {
-            "e": "Spaghetti Pesto mit Karottengemüse und Parmesan (A,G,3,4)",
-            "d": "Joghurt mit Beeren (G)",
-            "ev": "Spaghetti Pesto mit Karottengemüse und Parmesan (A,G,3,4)",
-            "dv": "Joghurt mit Beeren (G)"
+            "e": "Beginn der FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Marinierte Steaks mit Röstkartoffeln und Gemüse (1,4,G)",
-            "d": "Mango- Milch (G)",
-            "ev": "Kartoffeltaschen mit Frischkäse gefüllt, Tomatensoße und Gemüse (G)",
-            "dv": "Mango- Milch (G)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Thai Curry mit Hähnchenstreifen und Basmati Reis (3,I)",
-            "d": "Zitronencreme (G,2)",
-            "ev": "Thai Curry und Basmati Reis (3,I)",
-            "dv": "Zitronencreme (G,2)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
-            "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (D)",
-            "dv": "Dessert"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         }
     ],
-    "last_update": 1753578645
+    "last_update": 1753664947
 }
