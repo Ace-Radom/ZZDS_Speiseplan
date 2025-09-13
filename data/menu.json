@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Paniertes Schnitzel mit gebackener Kartoffel und Erbsen (A,C,G)",
-            "d": "Eis (G,2)",
-            "ev": "Vegetarisches Schnitzel mit gebackener Kartoffel und Erbsen (F,A,C,G)",
-            "dv": "Eis (G,2)"
+            "e": "Paniertes Schnitzel mit Pommes Frites und Gemüse (A,C,G)",
+            "d": "Pflaumenstreuselkuchen (A,C,G)",
+            "ev": "Gemüseschnitzel mit Pommes Frites (A,C,G,I)",
+            "dv": "Pflaumenstreuselkuchen (A,C,G)"
         },
         {
-            "e": "Beginn der FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Spaghetti Bolognese mit Reibekäse (A,G,I)",
+            "d": "Vanillepudding (G)",
+            "ev": "Spaghetti mit Gemüsebolognese (A,C,I)",
+            "dv": "Vanillepudding (G)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Grillsteak mit Röstkartoffeln und Maiskolben",
+            "d": "Wassermelone",
+            "ev": "Frühlingsrollen mit Chillisoße (A,C,2,6)",
+            "dv": "Wassermelone"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Käsespätzle mit Röstzwiebeln (A,C,G,3)",
+            "d": "Früchtequark (G)",
+            "ev": "Käsespätzle mit Röstzwiebel (A,C,G,3)",
+            "dv": "Früchtequark (G)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "d": "Dessert",
+            "ev": "Fischfilet mit Kartoffeln (D)",
+            "dv": "Dessert"
         }
     ],
-    "last_update": 1754183530
+    "last_update": 1757754113
 }
