@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Paniertes Schnitzel mit Pommes Frites und Gemüse (A,C,G)",
-            "d": "Pflaumenstreuselkuchen (A,C,G)",
-            "ev": "Gemüseschnitzel mit Pommes Frites (A,C,G,I)",
-            "dv": "Pflaumenstreuselkuchen (A,C,G)"
+            "e": "Bratwurst mit Röstkartoffeln und Bohnen (5)",
+            "d": "Nusspudding (G)",
+            "ev": "Vegetarische Bratwurst mit Bohnen (4,F)",
+            "dv": "Nusspudding (G)"
         },
         {
-            "e": "Spaghetti Bolognese mit Reibekäse (A,G,I)",
-            "d": "Vanillepudding (G)",
-            "ev": "Spaghetti mit Gemüsebolognese (A,C,I)",
-            "dv": "Vanillepudding (G)"
+            "e": "Tag der Schulverpflegung: Kürbislasagne (A,G)",
+            "d": "Joghurt mit Pflaumenkompott (G)",
+            "ev": "Tag der Schulverpflegung: Linsentaler mit Rote-Bete-Quark und Kartoffelspalten (A,G)",
+            "dv": "Joghurt mit Pflaumenkompott (G)"
         },
         {
-            "e": "Grillsteak mit Röstkartoffeln und Maiskolben",
-            "d": "Wassermelone",
-            "ev": "Frühlingsrollen mit Chillisoße (A,C,2,6)",
-            "dv": "Wassermelone"
+            "e": "Panierte Hähnchenbrust mit Pommes Frites und Blumenkohl (A,C,)",
+            "d": "Obstsalat",
+            "ev": "Panierter Blumenkohl mit Pommes Frites (A,C,G)",
+            "dv": "Obstsalat"
         },
         {
-            "e": "Käsespätzle mit Röstzwiebeln (A,C,G,3)",
-            "d": "Früchtequark (G)",
-            "ev": "Käsespätzle mit Röstzwiebel (A,C,G,3)",
-            "dv": "Früchtequark (G)"
+            "e": "Putenstreifen an Früchte-Currysoße mit Reis (6)",
+            "d": "Waldmeistercreme (2,6)",
+            "ev": "Gemüse-Curry mit Reis (6)",
+            "dv": "Waldmeistercreme (2,6)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (D)",
+            "ev": "Paniertes Fischfilet (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1758416099
+    "last_update": 1758502490
 }
