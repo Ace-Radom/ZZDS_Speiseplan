@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Bratwurst mit Röstkartoffeln und Bohnen (5)",
-            "d": "Nusspudding (G)",
-            "ev": "Vegetarische Bratwurst mit Bohnen (4,F)",
-            "dv": "Nusspudding (G)"
+            "e": "Hähnchenkeule mit BBQ-Sauce und Reis (3,4,6)",
+            "d": "Grießbrei mit Zimtzucker (G)",
+            "ev": "Gemüsecurry mit Reis",
+            "dv": "Grießbrei mit Zimtzucker (G)"
         },
         {
-            "e": "Tag der Schulverpflegung: Kürbislasagne (A,G)",
-            "d": "Joghurt mit Pflaumenkompott (G)",
-            "ev": "Tag der Schulverpflegung: Linsentaler mit Rote-Bete-Quark und Kartoffelspalten (A,G)",
-            "dv": "Joghurt mit Pflaumenkompott (G)"
+            "e": "Linsen mit Spätzle und Wienerle (5,A,C)",
+            "d": "Mango-Lassi (G)",
+            "ev": "Linsen mit Spätzle und vegane Wienerle (A,C,F)",
+            "dv": "Mango-Lassi (G)"
         },
         {
-            "e": "Panierte Hähnchenbrust mit Pommes Frites und Blumenkohl (A,C,)",
-            "d": "Obstsalat",
-            "ev": "Panierter Blumenkohl mit Pommes Frites (A,C,G)",
-            "dv": "Obstsalat"
+            "e": "Gemüsegulasch mit Kartoffeln",
+            "d": "Windbeutel (A,G)",
+            "ev": "Gemüsegulasch mit Kartoffeln",
+            "dv": "Windbeutel (A,G)"
         },
         {
-            "e": "Putenstreifen an Früchte-Currysoße mit Reis (6)",
-            "d": "Waldmeistercreme (2,6)",
-            "ev": "Gemüse-Curry mit Reis (6)",
-            "dv": "Waldmeistercreme (2,6)"
+            "e": "Cordon bleu mit gebackenen Kartoffeln und Gemüse (A,C,G)",
+            "d": "Panna Cotta (G)",
+            "ev": "Kürbisschnitzel mit gebackenen Kartoffeln (A,C,G)",
+            "dv": "Panna Cotta (G)"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "e": "FEIERTAG - Fischfilet, Kräuterkartoffeln und Gemüse (D)",
             "d": "Dessert",
-            "ev": "Paniertes Fischfilet (D)",
+            "ev": "",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1759020962
+    "last_update": 1759107135
 }
