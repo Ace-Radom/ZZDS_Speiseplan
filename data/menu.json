@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Hähnchenkeule mit BBQ-Sauce und Reis (3,4,6)",
-            "d": "Grießbrei mit Zimtzucker (G)",
-            "ev": "Gemüsecurry mit Reis",
-            "dv": "Grießbrei mit Zimtzucker (G)"
+            "e": "Fleischkäse mit Röstkartoffeln und Kohlrabigemüse (5,G)",
+            "d": "Schokoladenpudding (G)",
+            "ev": "Kohlrabigemüse an Sahnesoße mit Röstkartoffeln (G)",
+            "dv": "Schokoladenpudding (G)"
         },
         {
-            "e": "Linsen mit Spätzle und Wienerle (5,A,C)",
-            "d": "Mango-Lassi (G)",
-            "ev": "Linsen mit Spätzle und vegane Wienerle (A,C,F)",
-            "dv": "Mango-Lassi (G)"
+            "e": "Frikadelle mit Pfeffersoße, Kartoffelpüree und Gemüse (G)",
+            "d": "Apfeldessert (G)",
+            "ev": "Rahmlauch mit Kartoffelpüree (G)",
+            "dv": "Apfeldessert (G)"
         },
         {
-            "e": "Gemüsegulasch mit Kartoffeln",
-            "d": "Windbeutel (A,G)",
-            "ev": "Gemüsegulasch mit Kartoffeln",
-            "dv": "Windbeutel (A,G)"
+            "e": "Piccata vom Geflügel mit Spaghetti und Gemüse (A,C,G)",
+            "d": "Trauben",
+            "ev": "Pesto Spaghetti mit Gemüse (A,G,3)",
+            "dv": "Trauben"
         },
         {
-            "e": "Cordon bleu mit gebackenen Kartoffeln und Gemüse (A,C,G)",
-            "d": "Panna Cotta (G)",
-            "ev": "Kürbisschnitzel mit gebackenen Kartoffeln (A,C,G)",
-            "dv": "Panna Cotta (G)"
+            "e": "Gemüsemaultaschen mit geschmelztem Blumenkohl und Röstzwiebeln (A,C,G)",
+            "d": "Donut (A,C,G)",
+            "ev": "Gemüsemaultaschen mit geschmelztem Blumenkohl und Röstzwiebeln (A,C,G)",
+            "dv": "Donut (A,C,G)"
         },
         {
-            "e": "FEIERTAG - Fischfilet, Kräuterkartoffeln und Gemüse (D)",
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "",
+            "ev": "Fischfilet mit Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1759625708
+    "last_update": 1759711899
 }
