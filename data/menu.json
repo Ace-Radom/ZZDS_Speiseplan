@@ -1,28 +1,28 @@
 {
     "menu": [
         {
-            "e": "Fleischkäse mit Röstkartoffeln und Kohlrabigemüse (5,G)",
-            "d": "Schokoladenpudding (G)",
-            "ev": "Kohlrabigemüse an Sahnesoße mit Röstkartoffeln (G)",
-            "dv": "Schokoladenpudding (G)"
+            "e": "Reibeküchle mit Apfelmus (C,1,3)",
+            "d": "Creme Brûlée (G,4)",
+            "ev": "Reibeküchle mit Apfelmus (C,1,3)",
+            "dv": "Creme Brûlée (G,4)"
         },
         {
-            "e": "Frikadelle mit Pfeffersoße, Kartoffelpüree und Gemüse (G)",
-            "d": "Apfeldessert (G)",
-            "ev": "Rahmlauch mit Kartoffelpüree (G)",
-            "dv": "Apfeldessert (G)"
+            "e": "Hähnchenbrust mit Preiselbeersoße, Reis und Gemüse (3)",
+            "d": "Karamellpudding mit Sahne (G)",
+            "ev": "Sesam-Karotten-Sticks (A,C,G,K)",
+            "dv": "Karamellpudding mit Sahne (G)"
         },
         {
-            "e": "Piccata vom Geflügel mit Spaghetti und Gemüse (A,C,G)",
-            "d": "Trauben",
-            "ev": "Pesto Spaghetti mit Gemüse (A,G,3)",
-            "dv": "Trauben"
+            "e": "Asia-Pfanne mit Mie Nudeln, Gemüse und Fleischstreifen (A,4,6)",
+            "d": "Schaumküsse (A,C)",
+            "ev": "Asia-Pfanne mit Mie Nudeln und Gemüse (A)",
+            "dv": "Schaumküsse (A,C)"
         },
         {
-            "e": "Gemüsemaultaschen mit geschmelztem Blumenkohl und Röstzwiebeln (A,C,G)",
-            "d": "Donut (A,C,G)",
-            "ev": "Gemüsemaultaschen mit geschmelztem Blumenkohl und Röstzwiebeln (A,C,G)",
-            "dv": "Donut (A,C,G)"
+            "e": "Schnitzelnuggets mit gebackenen Kartoffeln und Erbsengemüse (A,C,G)",
+            "d": "Rote Grütze (4,6)",
+            "ev": "Gemüsebällchen paniert mit gebackenen Kartoffeln (A,C,G,F)",
+            "dv": "Rote Grütze (4,6)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
@@ -31,5 +31,5 @@
             "dv": "Dessert"
         }
     ],
-    "last_update": 1760230377
+    "last_update": 1760316869
 }
