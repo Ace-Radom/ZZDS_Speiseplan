@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Reibeküchle mit Apfelmus (C,1,3)",
-            "d": "Creme Brûlée (G,4)",
-            "ev": "Reibeküchle mit Apfelmus (C,1,3)",
-            "dv": "Creme Brûlée (G,4)"
+            "e": "Kasslerhals mit Sauerkraut und Schupfnudeln (1,3,5,G)",
+            "d": "Birne Helene (3,G)",
+            "ev": "Krautschupfnudeln (3,A,C,G)",
+            "dv": "Birne Helene (3,G)"
         },
         {
-            "e": "Hähnchenbrust mit Preiselbeersoße, Reis und Gemüse (3)",
-            "d": "Karamellpudding mit Sahne (G)",
-            "ev": "Sesam-Karotten-Sticks (A,C,G,K)",
-            "dv": "Karamellpudding mit Sahne (G)"
+            "e": "Münchner Schnitzel (Meerrettich-Panade) mit Bratkartoffeln, Speck und Zwiebeln (A,C,G,3,5)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Kürbisrisotto (G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "Asia-Pfanne mit Mie Nudeln, Gemüse und Fleischstreifen (A,4,6)",
-            "d": "Schaumküsse (A,C)",
-            "ev": "Asia-Pfanne mit Mie Nudeln und Gemüse (A)",
-            "dv": "Schaumküsse (A,C)"
+            "e": "Szegendiner Gulasch mit Sauerrahm und Kräuterkartoffeln (G)",
+            "d": "Kaiserschmarrn mit Apfelmus (A,C,G,3)",
+            "ev": "Ofenkartoffel mit Kräuterquark (G)",
+            "dv": "Kaiserschmarrn mit Apfelmus (A,C,G,3)"
         },
         {
-            "e": "Schnitzelnuggets mit gebackenen Kartoffeln und Erbsengemüse (A,C,G)",
-            "d": "Rote Grütze (4,6)",
-            "ev": "Gemüsebällchen paniert mit gebackenen Kartoffeln (A,C,G,F)",
-            "dv": "Rote Grütze (4,6)"
+            "e": "Vegetarische Kohlroulade an Kräutersoße mit Salzkartoffeln (G,I,J)",
+            "d": "Zwetschgencreme (G,6)",
+            "ev": "Vegetarische Kohlroulade an Kräutersoße mit Salzkartoffeln (G,I,J)",
+            "dv": "Zwetschgencreme (G,6)"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "e": "Schweinshäxle",
             "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (D)",
+            "ev": "Best of Herbstfest\t",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1760835447
+    "last_update": 1760921752
 }
