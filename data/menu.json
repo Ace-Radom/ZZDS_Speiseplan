@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Kasslerhals mit Sauerkraut und Schupfnudeln (1,3,5,G)",
-            "d": "Birne Helene (3,G)",
-            "ev": "Krautschupfnudeln (3,A,C,G)",
-            "dv": "Birne Helene (3,G)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Münchner Schnitzel (Meerrettich-Panade) mit Bratkartoffeln, Speck und Zwiebeln (A,C,G,3,5)",
-            "d": "Gebäck (A,C,G)",
-            "ev": "Kürbisrisotto (G)",
-            "dv": "Gebäck (A,C,G)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Szegendiner Gulasch mit Sauerrahm und Kräuterkartoffeln (G)",
-            "d": "Kaiserschmarrn mit Apfelmus (A,C,G,3)",
-            "ev": "Ofenkartoffel mit Kräuterquark (G)",
-            "dv": "Kaiserschmarrn mit Apfelmus (A,C,G,3)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Vegetarische Kohlroulade an Kräutersoße mit Salzkartoffeln (G,I,J)",
-            "d": "Zwetschgencreme (G,6)",
-            "ev": "Vegetarische Kohlroulade an Kräutersoße mit Salzkartoffeln (G,I,J)",
-            "dv": "Zwetschgencreme (G,6)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Schweinshäxle",
-            "d": "Dessert",
-            "ev": "Best of Herbstfest\t",
-            "dv": "Dessert"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         }
     ],
-    "last_update": 1761440170
+    "last_update": 1761526658
 }
