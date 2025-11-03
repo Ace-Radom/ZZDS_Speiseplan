@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "FERIEN",
+            "e": "Pädagogischer Tag",
             "d": "",
             "ev": "",
             "dv": ""
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Putenstreifen an Rahmlauch mit Reis (G)",
+            "d": "Vanille-Pudding mit Fruchtsoße (G)",
+            "ev": "Pesto-Gnocchi (3,6,A)",
+            "dv": "Vanille-Pudding mit Fruchtsoße (G)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (3,A,C,G)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (3,A,C,G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Paniertes Geflügelschnitzel mit Pommes Frites und Karottengemüse (A,C,G)",
+            "d": "Panna Cotta (G,6)",
+            "ev": "Paniertes Kürbischnitzel mit Pommes Frites (A,C,G) ",
+            "dv": "Panna Cotta (G,6)"
         },
         {
-            "e": "FERIEN",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Lachsfilet mit Zitronensoße und Kartoffeln (D)                 ",
+            "d": "Dessert",
+            "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "dv": "Dessert"
         }
     ],
-    "last_update": 1762045023
+    "last_update": 1762131380
 }
