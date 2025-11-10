@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Pädagogischer Tag",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Paniertes Schnitzel vom Schwein mit Würfelkartoffeln und Zucchini (A,C)",
+            "d": "Grießbrei mit Zimt und Zucker (G)",
+            "ev": "Gemüseschnitzel und Würfelkartoffeln (A,C,F)",
+            "dv": "Grießbrei mit Zimt und Zucker (G)"
         },
         {
-            "e": "Putenstreifen an Rahmlauch mit Reis (G)",
-            "d": "Vanille-Pudding mit Fruchtsoße (G)",
-            "ev": "Pesto-Gnocchi (3,6,A)",
-            "dv": "Vanille-Pudding mit Fruchtsoße (G)"
+            "e": " Maccheroni an Gemüse-Linsen-Bolognese mit Reibekäse (A,I)",
+            "d": "Schokoladencreme (G)",
+            "ev": " Maccheroni an Gemüse-Linsen-Bolognese mit Reibekäse (A,I)",
+            "dv": "Schokoladencreme (G)"
         },
         {
-            "e": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (3,A,C,G)",
-            "d": "Gebäck (A,C,G)",
-            "ev": "Schwäbische Käsespätzle mit Röstzwiebeln und Gemüse (3,A,C,G)",
-            "dv": "Gebäck (A,C,G)"
+            "e": "Pizza-Fleischkäse, Röstkartoffeln und Gemüse (A,1,3,4,5)",
+            "d": "Bratapfel-Quark (G,6)",
+            "ev": "Kartoffel-Gemüseauflauf (G)",
+            "dv": "Bratapfel-Quark (G,6)"
         },
         {
-            "e": "Paniertes Geflügelschnitzel mit Pommes Frites und Karottengemüse (A,C,G)",
-            "d": "Panna Cotta (G,6)",
-            "ev": "Paniertes Kürbischnitzel mit Pommes Frites (A,C,G) ",
-            "dv": "Panna Cotta (G,6)"
+            "e": "Rinderbraten mit Rotkraut und Knödel (A,I,J)",
+            "d": "Götterspeise (2,6)",
+            "ev": "Nudel-Gemüse-Pfanne (A,G)",
+            "dv": "Götterspeise (2,6)"
         },
         {
-            "e": "Lachsfilet mit Zitronensoße und Kartoffeln (D)                 ",
+            "e": "Paniertes Fischfilet (A,C,D)",
             "d": "Dessert",
             "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1762649815
+    "last_update": 1762736215
 }
