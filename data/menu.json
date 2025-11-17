@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Paniertes Schnitzel vom Schwein mit Würfelkartoffeln und Zucchini (A,C)",
-            "d": "Grießbrei mit Zimt und Zucker (G)",
-            "ev": "Gemüseschnitzel und Würfelkartoffeln (A,C,F)",
-            "dv": "Grießbrei mit Zimt und Zucker (G)"
+            "e": "Hirtenrolle gefüllt mit Frischkäse, Reis und Ajvar mit Paprikagemüse (G,3)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Griechische Moussaka (A,C,F,G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": " Maccheroni an Gemüse-Linsen-Bolognese mit Reibekäse (A,I)",
-            "d": "Schokoladencreme (G)",
-            "ev": " Maccheroni an Gemüse-Linsen-Bolognese mit Reibekäse (A,I)",
-            "dv": "Schokoladencreme (G)"
+            "e": "Schweinerückensteak mit Tomaten und Käse überbacken, Kräutersoße und Salzkartoffeln (G)",
+            "d": "Zitronencreme (G,6)",
+            "ev": "Kartoffelrösti mit Tomaten und Käse überbacken mit Kräutersoße (G)",
+            "dv": "Zitronencreme (G,6)"
         },
         {
-            "e": "Pizza-Fleischkäse, Röstkartoffeln und Gemüse (A,1,3,4,5)",
-            "d": "Bratapfel-Quark (G,6)",
-            "ev": "Kartoffel-Gemüseauflauf (G)",
-            "dv": "Bratapfel-Quark (G,6)"
+            "e": " Hähnchenbrust in Cornflakes-Panade mit Kroketten und Kohlrabigemüse (A,C)",
+            "d": "Obstsalat",
+            "ev": "Kohlrabi im Cornflakesmantel mit Kroketten (A,C)",
+            "dv": "Obstsalat"
         },
         {
-            "e": "Rinderbraten mit Rotkraut und Knödel (A,I,J)",
-            "d": "Götterspeise (2,6)",
-            "ev": "Nudel-Gemüse-Pfanne (A,G)",
-            "dv": "Götterspeise (2,6)"
+            "e": "Gemüse-Risotto mit Champignons (G)",
+            "d": "Waldmeister-Creme (2,4,6,G)",
+            "ev": "Gemüse-Risotto mit Champignons (G)",
+            "dv": "Waldmeister-Creme (2,4,6,G)"
         },
         {
-            "e": "Paniertes Fischfilet (A,C,D)",
+            "e": "Fisch Filet mit Kartoffeln (A,C,D)  ",
             "d": "Dessert",
             "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1763254698
+    "last_update": 1763340935
 }
