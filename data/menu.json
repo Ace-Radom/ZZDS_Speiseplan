@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Frische Leberwürstle mit Sauerkraut und Kartoffelpüree (1,3,5,G)",
-            "d": "Nougat-Pudding (G,6)",
-            "ev": "Krautschupfnudeln (A,C)",
-            "dv": "Nougat-Pudding (G,6)"
+            "e": " Asiatische Gemüse-Curry-Reispfanne (A,F,1,3)",
+            "d": "Panna Cotta (G,6)",
+            "ev": " Asiatische Gemüse-Curry-Reispfanne (A,F,1,3)",
+            "dv": "Panna Cotta (G,6)"
         },
         {
-            "e": "Putengulasch mit Pilzen, Spätzle und Karottengemüse (A,C,G)",
-            "d": "Erdbeerquark (G)",
-            "ev": "Vegetarische Kohlroulade mit Spätzle (A,C,G,F)",
-            "dv": "Erdbeerquark (G)"
+            "e": "Schweinerücken am Stück gebraten mit Kräuterkartoffeln, Rahmsoße und Erbsen (G)",
+            "d": "Schoko-Birnen-Creme (G)",
+            "ev": "Kräuterkartoffeln an Rahmspinat (G)",
+            "dv": "Schoko-Birnen-Creme (G)"
         },
         {
-            "e": "Blumenkohl mit Käse überbacken, Sauce Mornay und Kartoffeln",
-            "d": "Magenbrot (A)",
-            "ev": "Blumenkohl mit Käse überbacken, Sauce Mornay und Kartoffeln",
-            "dv": "Magenbrot (A)"
+            "e": "Cordon bleu mit Pommes-Chips und Gemüse (A,C)",
+            "d": "Joghurt mit Waldfrüchten (G)",
+            "ev": "Vegetarisches Schnitzel mit Pommes Chips und Gemüse (A,C,F)",
+            "dv": "Joghurt mit Waldfrüchten (G)"
         },
         {
-            "e": "Currywurst mit Bratkartoffeln und Gemüse (1,3,4,5,6)",
-            "d": "Reisbrei mit Heidelbeeren (G)",
-            "ev": "Vegetarische Currywurst mit Bratkartoffeln und Gemüse (1,3,4,5,6,F)",
-            "dv": "Reisbrei mit Heidelbeeren (G)"
+            "e": "Schwäbischer Linsenteller mit Spätzle und Wienerle (A,C,G,I,1,5)",
+            "d": "Bratapfel-Pudding (G)",
+            "ev": "Schwäbischer Linsenteller mit Spätzle (A,C,G,I)",
+            "dv": "Bratapfel-Pudding (G)"
         },
         {
-            "e": "Paniertes Fischfilet (A,C,D)",
+            "e": "Fisch-Filet mit Kartoffeln (A,C,D)  ",
             "d": "Dessert",
             "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1764464472
+    "last_update": 1764551154
 }
