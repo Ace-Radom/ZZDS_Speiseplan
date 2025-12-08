@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": " Asiatische Gemüse-Curry-Reispfanne (A,F,1,3)",
-            "d": "Panna Cotta (G,6)",
-            "ev": " Asiatische Gemüse-Curry-Reispfanne (A,F,1,3)",
-            "dv": "Panna Cotta (G,6)"
+            "e": "Puten-Medaillons mit Preiselbeeren und mit Käse überbacken, dazu Nudeln und Brokkoli (3,A,G)",
+            "d": "Vanillepudding (G)",
+            "ev": "Brokkoli-Nudel-Gratin (A,G)",
+            "dv": "Vanillepudding (G)"
         },
         {
-            "e": "Schweinerücken am Stück gebraten mit Kräuterkartoffeln, Rahmsoße und Erbsen (G)",
-            "d": "Schoko-Birnen-Creme (G)",
-            "ev": "Kräuterkartoffeln an Rahmspinat (G)",
-            "dv": "Schoko-Birnen-Creme (G)"
+            "e": "Schnitzelnuggets mit Kartoffelwedges und Karottengemüse (A,C,G)",
+            "d": "Mangolassi (G)",
+            "ev": "Vegetarische Nuggets mit Kartoffelwedges und Karottengemüse (A,F)",
+            "dv": "Mangolassi (G)"
         },
         {
-            "e": "Cordon bleu mit Pommes-Chips und Gemüse (A,C)",
-            "d": "Joghurt mit Waldfrüchten (G)",
-            "ev": "Vegetarisches Schnitzel mit Pommes Chips und Gemüse (A,C,F)",
-            "dv": "Joghurt mit Waldfrüchten (G)"
+            "e": "Canneloni mit Ricotta gefüllt und mit Tomatensoße überbacken (A,G)",
+            "d": "Haselnusscreme (G)",
+            "ev": "Canneloni mit Ricotta gefüllt und mit Tomatensoße überbacken (A,G)",
+            "dv": "Haselnusscreme (G)"
         },
         {
-            "e": "Schwäbischer Linsenteller mit Spätzle und Wienerle (A,C,G,I,1,5)",
-            "d": "Bratapfel-Pudding (G)",
-            "ev": "Schwäbischer Linsenteller mit Spätzle (A,C,G,I)",
-            "dv": "Bratapfel-Pudding (G)"
+            "e": "Rinder-Frikadelle an Pfeffersoße mit Reis und Gemüse (A,C,G)",
+            "d": "Berliner (A,C)",
+            "ev": "Gemüsefrikadelle an Pfeffersoße mit Reis und Gemüse (A,C,G)",
+            "dv": "Berliner (A,C)"
         },
         {
-            "e": "Fisch-Filet mit Kartoffeln (A,C,D)  ",
+            "e": "Fischfilet im Gemüsesud mit Kartoffeln (D)      ",
             "d": "Dessert",
             "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1765069268
+    "last_update": 1765155397
 }
