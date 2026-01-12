@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Ferien  ",
-            "d": "",
-            "ev": "Wir wünschen allen ein gutes neues Jahr!",
-            "dv": ""
+            "e": "Paniertes Schweineschnitzel mit Würfelkartoffeln, Erbsen- und Möhrengemüse (A,C)",
+            "d": "Crème brûlée (G)",
+            "ev": "Sellerieschnitzel mit Würfelkartoffeln, Erbsen-und Möhrengemüse (A,C)",
+            "dv": "Crème brûlée (G)"
         },
         {
-            "e": "Feiertag",
-            "d": "",
-            "ev": "",
-            "dv": ""
+            "e": "Fleischkäse mit Röstkartoffeln und Gemüse (4,5)",
+            "d": "Vanillepudding (G)",
+            "ev": "Vegetarischer Fleischkäse mit Röstkartoffeln und Gemüse (4,F)",
+            "dv": "Vanillepudding (G)"
         },
         {
-            "e": "Spaghetti Bolognese mit Reibekäse (A,G,I)",
-            "d": "Götterspeise (2,6)",
-            "ev": "Spaghetti Gemüse-Bolognese mit Reibekäse (A,G,I)",
-            "dv": "Götterspeise (2,6)"
+            "e": "Pesto-Farfalle mit buntem Gemüse und Reibekäse (A,G,H,4)",
+            "d": "Früchtequark (G)",
+            "ev": "Pesto-Farfalle mit buntem Gemüse und Reibekäse (A,G,H,4)",
+            "dv": "Früchtequark (G)"
         },
         {
-            "e": "Hähnchenbrust mit BBQ-Soße, Bratkartoffeln und Gemüse (3,4,6)",
-            "d": "Winter-Schoko-Creme (G,4)",
-            "ev": "Süßkartoffel-Auflauf (G)",
-            "dv": "Winter-Schoko-Creme (G,4)"
+            "e": "Putenbrust an Früchte-Curry-Soße mit Basmati-Reis (6)",
+            "d": "Muffin (A,C,G)",
+            "ev": "Kürbis-Lasagne (A,G)",
+            "dv": "Muffin (A,C,G)"
         },
         {
-            "e": "Lachsnudeln(A,D)",
+            "e": "Lachsfilet mit Kartoffeln (D)",
             "d": "Dessert",
-            "ev": "Foodsaver:Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1768093490
+    "last_update": 1768179737
 }
