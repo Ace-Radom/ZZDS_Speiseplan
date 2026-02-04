@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Schweinehalsbraten mit Champignonsoße, Salzkartoffeln und Gemüse (G)",
-            "d": "Mandarinen-Creme (2,6,G)",
-            "ev": "Serviettenknödel an Pilzrahmsoße mit Gemüse (A,C,G)",
-            "dv": "Mandarinen-Creme (2,6,G)"
+            "e": "Currywurst mit Bratkartoffeln und Gemüse (1,3,5,6)",
+            "d": "Bayrische Creme mit Früchten (G,4,6)",
+            "ev": "Vegetarische Currywurst mit Bratkartoffeln und Gemüse (F,3,6)",
+            "dv": "Bayrische Creme mit Früchten (G,4,6)"
         },
         {
-            "e": "Geflügelgulasch mit Spätzle und Buttererbsen (A,C,G)",
-            "d": "Schokoladenpudding (G)",
-            "ev": "Paprikagulasch mit Spätzle (A,C,G)",
-            "dv": "Schokoladenpudding (G)"
+            "e": "Cordon bleu mit Würfelkartoffeln und Gemüse (A,C,G)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Dampfnudeln mit Vanillesoße (A,G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "Schnitzel-Nuggets mit Kroketten und Blumenkohl (A,C)",
-            "d": "Mango-Lassi (G)",
-            "ev": "Panierter Blumenkohl mit Kroketten (A,C)",
-            "dv": "Mango-Lassi (G)"
+            "e": "Fasnetsküchle mit Vanillesoße (A,C,G)",
+            "d": "Obst der Saison",
+            "ev": "",
+            "dv": "Obst der Saison"
         },
         {
-            "e": "Spaghetti in Sahnesoße mit Kirschtomaten und Reibekäse (A,G)",
-            "d": "Windbeutel (A,C,G)",
-            "ev": "Spaghetti in Sahnesoße mit Kirschtomaten und Reibekäse (A,G)",
-            "dv": "Windbeutel (A,C,G)"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         },
         {
-            "e": "Paniertes Fischfilet mit Kartoffeln (D)",
-            "d": "Dessert",
-            "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
-            "dv": "Dessert"
+            "e": "FERIEN",
+            "d": "",
+            "ev": "",
+            "dv": ""
         }
     ],
-    "last_update": 1769908818
+    "last_update": 1770167274
 }
