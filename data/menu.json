@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Schweinerückensteak mit Ratatouillegemüse und Nudeln (A,I)",
-            "d": "Birnencreme (6,G)",
-            "ev": "Gemüsenudeln (A)",
-            "dv": "Birnencreme (6,G)"
+            "e": "Fleischkäse vom Tannenhof mit Kartoffelpüree und Bohnen (g,1,5)",
+            "d": "Gebäck (A,C)",
+            "ev": "Kohlroulade mit Kartoffelpüree (F,G)",
+            "dv": "Gebäck (A,C)"
         },
         {
-            "e": "Linsen mit Spätzle und Wienerle (A,C,G,I,5)",
-            "d": "Karamel-Creme (G,4)",
-            "ev": "Linsen mit Spätzle und vegane Wienerle (A,C,G,F)",
-            "dv": "Karamel-Creme (G,4)"
+            "e": "Piccata vom Geflügel mit Westernkartoffeln und Gemüse (A,C,G)",
+            "d": "Panna Cotta (G)",
+            "ev": "Moussaka (G)",
+            "dv": "Panna Cotta (G)"
         },
         {
-            "e": "Hähnchenbrust im Cornflakesmantel mit Kroketten und Brokkoli (A,C,G)",
-            "d": "Quark mit Erdbeeren (G)",
-            "ev": "Panierter Brokkoli mit Kroketten (A,C)",
-            "dv": "Quark mit Erdbeeren (G)"
+            "e": "Gemüsemaultaschen in der Brühe mit Röstzwiebel und Reibekäse (A,G,I)",
+            "d": "Götterspeise (2,4,6)",
+            "ev": "Gemüsemaultaschen in der Brühe mit Röstzwiebel und Reibekäse (A,G,I)",
+            "dv": "Götterspeise (2,4,6)"
         },
         {
-            "e": "Frühlingsrolle mit Chillisoße und Gemüse (A,C,I1)",
-            "d": "Schokladenpudding (G)",
-            "ev": "Frühlingsrolle mit Chillisoße und Gemüse (A,C,I1)",
-            "dv": "Schokladenpudding (G)"
+            "e": "Bami Goreng mit Putenstreifen (A,F)",
+            "d": "Götterspeise (2,4,6)",
+            "ev": " Veganes Bami Goreng (A,F)",
+            "dv": "Götterspeise (2,4,6)"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "e": "Paniertes Fischfilet (A,C,D)",
             "d": "Dessert",
-            "ev": "Lachswürfel in Sahnesoße (D)",
+            "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1772327930
+    "last_update": 1772413862
 }
