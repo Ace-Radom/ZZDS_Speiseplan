@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Fleischkäse vom Tannenhof mit Kartoffelpüree und Bohnen (g,1,5)",
-            "d": "Gebäck (A,C)",
-            "ev": "Kohlroulade mit Kartoffelpüree (F,G)",
-            "dv": "Gebäck (A,C)"
+            "e": "Hähnchenkeule mit BBQ-Soße, Röstkartoffeln und Erbsen (4)",
+            "d": "Bratapfel-Pudding (G)",
+            "ev": "Kartoffel-Gemüsegratin (G)",
+            "dv": "Bratapfel-Pudding (G)"
         },
         {
-            "e": "Piccata vom Geflügel mit Westernkartoffeln und Gemüse (A,C,G)",
-            "d": "Panna Cotta (G)",
-            "ev": "Moussaka (G)",
-            "dv": "Panna Cotta (G)"
+            "e": "Tortelloni mit Riccota gefüllt, Sahnesoße und buntes Gemüse (A,G)",
+            "d": "Mangolassi (G)",
+            "ev": "Tortelloni mit Riccota gefüllt, Sahnesoße und buntes Gemüse (A,G)",
+            "dv": "Mangolassi (G)"
         },
         {
-            "e": "Gemüsemaultaschen in der Brühe mit Röstzwiebel und Reibekäse (A,G,I)",
-            "d": "Götterspeise (2,4,6)",
-            "ev": "Gemüsemaultaschen in der Brühe mit Röstzwiebel und Reibekäse (A,G,I)",
-            "dv": "Götterspeise (2,4,6)"
+            "e": "Spaghetti Bolognese und Parmesan (A,G)",
+            "d": "Zitronencreme (G)",
+            "ev": "Spaghetti Gemüse-Bolognese und Parmesan (A,G)",
+            "dv": "Zitronencreme (G)"
         },
         {
-            "e": "Bami Goreng mit Putenstreifen (A,F)",
-            "d": "Schwarzwälder Kirsch Creme(G)",
-            "ev": " Veganes Bami Goreng (A,F)",
-            "dv": "Schwarzwälder Kirsch Creme(G)"
+            "e": "Paniertes Schweineschnitzel mit Herzoginkartoffel und Karottengemüse (A,C,G)",
+            "d": "Muffin (A,C,G)",
+            "ev": "Gemüseschnitzel mit Herzoginkartoffel und Karottengemüse (A,C,G,I)",
+            "dv": "Muffin (A,C,G)"
         },
         {
-            "e": "Paniertes Fischfilet (A,C,D)",
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "ev": "Fischfilet mit Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1772932330
+    "last_update": 1773018726
 }
