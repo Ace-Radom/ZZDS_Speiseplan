@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Hähnchenkeule mit BBQ-Soße, Röstkartoffeln und Erbsen (4)",
-            "d": "Bratapfel-Pudding (G)",
-            "ev": "Kartoffel-Gemüsegratin (G)",
-            "dv": "Bratapfel-Pudding (G)"
+            "e": "Gemüsegulasch mit Kartoffeln (I)",
+            "d": "Grießbrei mit Zimt und Zucker (G)",
+            "ev": "Gemüsegulasch mit Kartoffeln (I)",
+            "dv": "Grießbrei mit Zimt und Zucker (G)"
         },
         {
-            "e": "Tortelloni mit Riccota gefüllt, Sahnesoße und buntes Gemüse (A,G)",
-            "d": "Mangolassi (G)",
-            "ev": "Tortelloni mit Riccota gefüllt, Sahnesoße und buntes Gemüse (A,G)",
-            "dv": "Mangolassi (G)"
+            "e": "Geflügelschnitzel mit Country Cubes und Erbsen (A,C)",
+            "d": "Donut (A,C,G)",
+            "ev": "Paniertes Gemüse mit Country Cubes (A,C,)",
+            "dv": "Donut (A,C,G)"
         },
         {
-            "e": "Spaghetti Bolognese und Parmesan (A,G)",
-            "d": "Zitronencreme (G)",
-            "ev": "Spaghetti Gemüse-Bolognese und Parmesan (A,G)",
-            "dv": "Zitronencreme (G)"
+            "e": "Rinderbraten mit Rotkraut und Spätzle (A,C,G)",
+            "d": "Vanille Pudding (G)",
+            "ev": "Schwäbische Käsespätzle mit Röstzwiebeln (A,C,G,3)",
+            "dv": "Vanille Pudding (G)"
         },
         {
-            "e": "Paniertes Schweineschnitzel mit Herzoginkartoffel und Karottengemüse (A,C,G)",
-            "d": "Muffin (A,C,G)",
-            "ev": "Gemüseschnitzel mit Herzoginkartoffel und Karottengemüse (A,C,G,I)",
-            "dv": "Muffin (A,C,G)"
+            "e": "Putenbrust an Früchte-Currysoße mit Reis (2,4)",
+            "d": "Joghurt Früchte (G)",
+            "ev": "Gemüsecurry mit Reis",
+            "dv": "Joghurt Früchte (G)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (D)",
+            "ev": "Lachsschnitte mit Zitronensoße und Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1773537648
+    "last_update": 1773624045
 }
