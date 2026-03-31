@@ -1,28 +1,28 @@
 {
     "menu": [
         {
-            "e": "Thüringer Bratwurst mit Röstkartoffeln und Bohnen (4,5,G)",
-            "d": "Schokoladenpudding (G)",
-            "ev": "Vegetarische Bratwurst mit Röstkartoffeln und Bohnen (F,G,4)",
-            "dv": "Schokoladenpudding (G)"
+            "e": "Gefülltes Schnitzel mit Pommes Frites und Karottengemüse (A,C,G)",
+            "d": "Creme Brûlée (G)",
+            "ev": "Gemüseschnitzel mit Pommes Frites (A,C,F)",
+            "dv": "Creme Brûlée (G)"
         },
         {
-            "e": "Fleischküchle mit Farfallenudeln und Kohlrabigemüse (A,C)",
-            "d": "Joghurt \"Lotus\"  mit Karamelkeksen (A,G)",
-            "ev": "Gemüsefrikadelle mit Farfallenudeln und Kohlrabigemüse (A,C)",
-            "dv": "Joghurt \"Lotus\"  mit Karamelkeksen (A,G)"
+            "e": "Spaghetti an Gemüsesahnesoße und Reibekäse (A,G,I)",
+            "d": "Nougat Pudding (G)",
+            "ev": "Spaghetti an Gemüsesahnesoße und Reibekäse (A,G,I)",
+            "dv": "Nougat Pudding (G)"
         },
         {
-            "e": "Cordon bleu mit Pommes Frites und Gemüse (A,C,G)",
-            "d": "Erdbeer-Mascarpone-Creme (G)",
-            "ev": "Käseschnitzel mit Pommes Frites und Gemüse (A,C,G)",
-            "dv": "Erdbeer-Mascarpone-Creme (G)"
+            "e": "Pizza Salami (A,G,5)",
+            "d": "Quark mit Sauerkirschen (G)",
+            "ev": "Pizza Magherita (A,G)",
+            "dv": "Quark mit Sauerkirschen (G)"
         },
         {
-            "e": "Gnocchi an Bärlauchpesto und Gemüse (G)",
-            "d": "Kuchen (A,C,G)",
-            "ev": "Gnocchi an Bärlauchpesto und Gemüse (G)",
-            "dv": "Kuchen (A,C,G)"
+            "e": "Ragout von Schwein und Rind mit Spätzle und Paprikagemüse (A,C,G)",
+            "d": "Mascarpone Creme (G,2)",
+            "ev": "Gemüseragout mit Spätzle (A,C,G)",
+            "dv": "Mascarpone Creme (G,2)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
@@ -31,5 +31,5 @@
             "dv": "Dessert"
         }
     ],
-    "last_update": 1774747393
+    "last_update": 1774920086
 }
