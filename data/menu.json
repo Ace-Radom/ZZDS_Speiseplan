@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Gefülltes Schnitzel mit Pommes Frites und Karottengemüse (A,C,G)",
-            "d": "Creme Brûlée (G)",
-            "ev": "Gemüseschnitzel mit Pommes Frites (A,C,F)",
-            "dv": "Creme Brûlée (G)"
+            "e": "Schweinesteak mit Pilzsoße, Spätzle und buntem Gemüse (A,C,G)",
+            "d": "Vanillepudding mit Erdbeersoße (G)",
+            "ev": "Spätzle an Rahmpilzen mit buntem Gemüse (A,C,G)",
+            "dv": "Vanillepudding mit Erdbeersoße (G)"
         },
         {
-            "e": "Spaghetti an Gemüsesahnesoße und Reibekäse (A,G,I)",
-            "d": "Nougat Pudding (G)",
-            "ev": "Spaghetti an Gemüsesahnesoße und Reibekäse (A,G,I)",
-            "dv": "Nougat Pudding (G)"
+            "e": "Geflügel-Gyros mit Reis und Tzatziki (G)",
+            "d": "Gebäck (A,C,G)",
+            "ev": "Vegetarisches Gyros mit Reis und Tzatziki (F,G)",
+            "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "Pizza Salami (A,G,5)",
-            "d": "Quark mit Sauerkirschen (G)",
-            "ev": "Pizza Magherita (A,G)",
-            "dv": "Quark mit Sauerkirschen (G)"
+            "e": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensoße, mit Käse überbacken, Gemüse (A,G)",
+            "d": "Joghurt mit Früchten (G)",
+            "ev": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensoße, mit Käse überbacken, Gemüse (A,G)",
+            "dv": "Joghurt mit Früchten (G)"
         },
         {
-            "e": "Ragout von Schwein und Rind mit Spätzle und Paprikagemüse (A,C,G)",
-            "d": "Mascarpone Creme (G,2)",
-            "ev": "Gemüseragout mit Spätzle (A,C,G)",
-            "dv": "Mascarpone Creme (G,2)"
+            "e": "Paniertes Geflügelschnitzel mit Kroketten und Kohlrabi (A,C)",
+            "d": "Milchreis (G)",
+            "ev": "Paniertes Kohlrabischnitzel mit Kroketten (A,C)",
+            "dv": "Milchreis (G)"
         },
         {
             "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Fischfilet mit Kartoffeln (D)",
+            "ev": "Paniertes Fischfilet (D) mit Kartoffeln",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1776563022
+    "last_update": 1776649537
 }
