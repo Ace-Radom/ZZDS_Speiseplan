@@ -13,12 +13,6 @@
             "dv": "Gebäck (A,C,G)"
         },
         {
-            "e": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensoße, mit Käse überbacken, Gemüse (A,G)",
-            "d": "Joghurt mit Früchten (G)",
-            "ev": "Cannelloni mit Ricotta-Spinat-Füllung und Tomatensoße, mit Käse überbacken, Gemüse (A,G)",
-            "dv": "Joghurt mit Früchten (G)"
-        },
-        {
             "e": "Paniertes Geflügelschnitzel mit Kroketten und Kohlrabi (A,C)",
             "d": "Milchreis (G)",
             "ev": "Paniertes Kohlrabischnitzel mit Kroketten (A,C)",
@@ -29,7 +23,13 @@
             "d": "Dessert",
             "ev": "Paniertes Fischfilet (D) mit Kartoffeln",
             "dv": "Dessert"
+        },
+        {
+            "e": "Maultaschen mit Röstzwiebeln und Gemüse (A,C,3)",
+            "d": "Obst der Saison",
+            "ev": "----------",
+            "dv": "Obst der Saison"
         }
     ],
-    "last_update": 1776821171
+    "last_update": 1776908667
 }
