@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Schweinesteak mit Pilzsoße, Spätzle und buntem Gemüse (A,C,G)",
-            "d": "Vanillepudding mit Erdbeersoße (G)",
-            "ev": "Spätzle an Rahmpilzen mit buntem Gemüse (A,C,G)",
-            "dv": "Vanillepudding mit Erdbeersoße (G)"
+            "e": "Thüringer Bratwurst vom Tannenhof mit Röstkartoffeln und Bohnen (4,G)",
+            "d": "Panna Cotta (G)",
+            "ev": "Vegetarische Bratwurst mit Röstkartoffeln und  Bohnen (F,4)",
+            "dv": "Panna Cotta (G)"
         },
         {
-            "e": "Geflügel-Gyros mit Reis und Tzatziki (G)",
-            "d": "Gebäck (A,C,G)",
-            "ev": "Vegetarisches Gyros mit Reis und Tzatziki (F,G)",
-            "dv": "Gebäck (A,C,G)"
+            "e": "Piccata Milanese mit Spagetti und Tomatensoße, dazu Gemüse (A,G)",
+            "d": "Bratapfelpudding (G)",
+            "ev": "Spaghetti Napoli mit Gemüse und Reibekäse (A,G)",
+            "dv": "Bratapfelpudding (G)"
         },
         {
-            "e": "Paniertes Geflügelschnitzel mit Kroketten und Kohlrabi (A,C)",
-            "d": "Milchreis (G)",
-            "ev": "Paniertes Kohlrabischnitzel mit Kroketten (A,C)",
-            "dv": "Milchreis (G)"
+            "e": "Cevapcici mit Tomatenreis und Ajvar (A)",
+            "d": "Waldmeistercreme (G,2,6)",
+            "ev": "Vegetarische Cevapcici mit Tomatenreis und Ajvar (F,4)",
+            "dv": "Waldmeistercreme (G,2,6)"
         },
         {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "e": "Frühlingsrolle mit Chillisoße und Gemüse (A,6)",
+            "d": "Windbeutel (A,C,G)",
+            "ev": "Frühlingsrolle mit Chillisoße und Gemüse (A,6)",
+            "dv": "Windbeutel (A,C,G)"
+        },
+        {
+            "e": "FEIERTAG",
             "d": "Dessert",
-            "ev": "Paniertes Fischfilet (D) mit Kartoffeln",
+            "ev": "Rahmnudeln mit Fischwürfel",
             "dv": "Dessert"
-        },
-        {
-            "e": "Maultaschen mit Röstzwiebeln und Gemüse (A,C,3)",
-            "d": "Obst der Saison",
-            "ev": "----------",
-            "dv": "Obst der Saison"
         }
     ],
-    "last_update": 1777167919
+    "last_update": 1777254563
 }
