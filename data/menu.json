@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Thüringer Bratwurst vom Tannenhof mit Röstkartoffeln und Bohnen (4,G)",
-            "d": "Panna Cotta (G)",
-            "ev": "Vegetarische Bratwurst mit Röstkartoffeln und  Bohnen (F,4)",
-            "dv": "Panna Cotta (G)"
+            "e": "Hähnchenbrust mit Bärlauchsoße, Reis und Blumenkohl (G)",
+            "d": "Himbeer-Dessert (G)",
+            "ev": "Überbackener Blumenkohl mit Reis (G)",
+            "dv": "Himbeer-Dessert (G)"
         },
         {
-            "e": "Piccata Milanese mit Spagetti und Tomatensoße, dazu Gemüse (A,G)",
-            "d": "Bratapfelpudding (G)",
-            "ev": "Spaghetti Napoli mit Gemüse und Reibekäse (A,G)",
-            "dv": "Bratapfelpudding (G)"
+            "e": "Pasta-Mix an Gemüsebolognese mit Reibekäse (A,G,I)",
+            "d": "Erdbeercreme (G)",
+            "ev": "Pasta-Mix an Gemüsebolognese mit Reibekäse (A,G,I)",
+            "dv": "Erdbeercreme (G)"
         },
         {
-            "e": "Cevapcici mit Tomatenreis und Ajvar (A)",
-            "d": "Waldmeistercreme (G,2,6)",
-            "ev": "Vegetarische Cevapcici mit Tomatenreis und Ajvar (F,4)",
-            "dv": "Waldmeistercreme (G,2,6)"
+            "e": "Schnitzelnuggets vom Schwein mit Pommes-Chips und Gemüse (A,C)",
+            "d": "Obstsalat",
+            "ev": "Vegetarische Nuggets mit Pommes-Chips und Gemüse (A,F,4)",
+            "dv": "Obstsalat"
         },
         {
-            "e": "Frühlingsrolle mit Chillisoße und Gemüse (A,6)",
-            "d": "Windbeutel (A,C,G)",
-            "ev": "Frühlingsrolle mit Chillisoße und Gemüse (A,6)",
-            "dv": "Windbeutel (A,C,G)"
+            "e": "Linsen mit Spätzle und Wienerle (A,C,5)",
+            "d": "Schokopudding (G)",
+            "ev": "Linsen mit Spätzle (A,C,F)",
+            "dv": "Schokopudding (G)"
         },
         {
-            "e": "FEIERTAG",
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "Rahmnudeln mit Fischwürfel",
+            "ev": "Fischfilet und Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1777773121
+    "last_update": 1777859573
 }
