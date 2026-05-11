@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Hähnchenbrust mit Bärlauchsoße, Reis und Blumenkohl (G)",
-            "d": "Himbeer-Dessert (G)",
-            "ev": "Überbackener Blumenkohl mit Reis (G)",
-            "dv": "Himbeer-Dessert (G)"
+            "e": "Paniertes Schnitzel mit Röstkartoffeln und Karottengemüse (A,C)",
+            "d": "Zitronenpudding (G)",
+            "ev": "Onion Rings mit Röstkartoffeln (A,C)",
+            "dv": "Zitronenpudding (G)"
         },
         {
-            "e": "Pasta-Mix an Gemüsebolognese mit Reibekäse (A,G,I)",
-            "d": "Erdbeercreme (G)",
-            "ev": "Pasta-Mix an Gemüsebolognese mit Reibekäse (A,G,I)",
-            "dv": "Erdbeercreme (G)"
+            "e": "Putengulasch mit Pilzen, Spätzle und Gemüse (A,C,G)",
+            "d": "Donut (A,C,G,2)",
+            "ev": "Kohlroulade mit Salzkartoffeln (C,F)",
+            "dv": "Donut (A,C,G,2)"
         },
         {
-            "e": "Schnitzelnuggets vom Schwein mit Pommes-Chips und Gemüse (A,C)",
-            "d": "Obstsalat",
-            "ev": "Vegetarische Nuggets mit Pommes-Chips und Gemüse (A,F,4)",
-            "dv": "Obstsalat"
+            "e": "Bami Goreng mit Putenstreifen (A,C,F)",
+            "d": "Tiramisu (A,G,6)",
+            "ev": "Veganes Bami Goreng (A,F)",
+            "dv": "Tiramisu (A,G,6)"
         },
         {
-            "e": "Linsen mit Spätzle und Wienerle (A,C,5)",
-            "d": "Schokopudding (G)",
-            "ev": "Linsen mit Spätzle (A,C,F)",
-            "dv": "Schokopudding (G)"
-        },
-        {
-            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
+            "e": "Halssteak mit Kräuterbutter und Kroketten (A,C,G) ",
             "d": "Dessert",
-            "ev": "Fischfilet und Kartoffeln (D)",
+            "ev": "FEIERTAG",
+            "dv": "Dessert"
+        },
+        {
+            "e": "Riesengarnelen in Knoblauchsoße und Röstkartoffeln (K,G)",
+            "d": "Dessert",
+            "ev": "BRÜCKENTAG",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1778378110
+    "last_update": 1778465130
 }
