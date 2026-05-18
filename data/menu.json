@@ -1,35 +1,35 @@
 {
     "menu": [
         {
-            "e": "Paniertes Schnitzel mit Röstkartoffeln und Karottengemüse (A,C)",
-            "d": "Zitronenpudding (G)",
-            "ev": "Onion Rings mit Röstkartoffeln (A,C)",
-            "dv": "Zitronenpudding (G)"
+            "e": "Schweinesteak mit grünem Spargel und Butterkartoffeln (G)",
+            "d": "Eis (G,2)",
+            "ev": "Ofenkartoffel mit Frühlingsquark (G)",
+            "dv": "Eis (G,2)"
         },
         {
-            "e": "Putengulasch mit Pilzen, Spätzle und Gemüse (A,C,G)",
-            "d": "Donut (A,C,G,2)",
-            "ev": "Kohlroulade mit Salzkartoffeln (C,F)",
-            "dv": "Donut (A,C,G,2)"
+            "e": "Frühlings-Gemüsereis mit Putenstreifen, Lauchzwiebeln und getrockneten Tomaten (1)",
+            "d": "Frische Erdbeeren",
+            "ev": "Frühlings-Gemüsereis mit Lauchzwiebeln und getrockneten Tomaten (1)",
+            "dv": "Frische Erdbeeren"
         },
         {
-            "e": "Bami Goreng mit Putenstreifen (A,C,F)",
-            "d": "Tiramisu (A,G,6)",
-            "ev": "Veganes Bami Goreng (A,F)",
-            "dv": "Tiramisu (A,G,6)"
+            "e": "Spargelragout mit neuen Kartoffeln (G)",
+            "d": "Schwarze Johannisbeere-Götterspeise (2,4,6)",
+            "ev": "Spargelragout mit neuen Kartoffeln (G)",
+            "dv": "Schwarze Johannisbeere-Götterspeise (2,4,6)"
         },
         {
-            "e": "Halssteak mit Kräuterbutter und Kroketten (A,C,G) ",
+            "e": "Putenstreifen mit Früchtecurrysoße und Basmatireis (2)",
+            "d": "Erdbeermilch (G)",
+            "ev": "Bärlauch-Gnocchi (G)",
+            "dv": "Erdbeermilch (G)"
+        },
+        {
+            "e": "Foodsaver: Lieblingsgerichte der Woche (A,C,D,G,H,I,J)",
             "d": "Dessert",
-            "ev": "FEIERTAG",
-            "dv": "Dessert"
-        },
-        {
-            "e": "Riesengarnelen in Knoblauchsoße und Röstkartoffeln (K,G)",
-            "d": "Dessert",
-            "ev": "BRÜCKENTAG",
+            "ev": "Fischfilet mit Kartoffeln (D)",
             "dv": "Dessert"
         }
     ],
-    "last_update": 1778983293
+    "last_update": 1779070414
 }
